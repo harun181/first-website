@@ -67,5 +67,10 @@ section{
 }
 #full-stack{
     border-left: 7px solid orange
+}
+footer{
+    font-size: 15px;
+    text-align: center;
+    padding-bottom: 10px;
 }    
 
